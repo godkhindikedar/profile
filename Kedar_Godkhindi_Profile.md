@@ -136,4 +136,5 @@ MVP Award – RXO (Q3 2025) for platform scalability and acquisition integration
 
 MVP Award RXO (Q1 2023) – Awarded for driving API platform modernization through Boomi–Apigee migration, improving reliability, and enabling critical integrations and customer onboardings.
 
+
 Saggezza Star Award – 2020 & 2021 for delivery excellence and leadership.
